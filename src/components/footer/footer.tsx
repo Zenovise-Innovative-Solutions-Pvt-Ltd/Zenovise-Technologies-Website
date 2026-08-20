@@ -223,7 +223,7 @@ const Footer = () => {
                   height={20}
                 />
               </a>
-              <a href="https://www.instagram.com/zenovisetechnologies/" target="_blank" className={styles.footerButton}>
+              <a href="https://www.instagram.com/zenoviseinnovativesolutions/" target="_blank" className={styles.footerButton}>
                 <Image
                   className={styles.vectorImgRight}
                   src="/assets/logos/footer-instagram.svg"
@@ -232,7 +232,7 @@ const Footer = () => {
                   height={20}
                 />
               </a>
-              <a href="https://www.linkedin.com/company/zenovise-technologies/" target="_blank" className={styles.footerButton}>
+              <a href="https://www.linkedin.com/company/zenovise-innovative-solutions-pvt-ltd/" target="_blank" className={styles.footerButton}>
                 <Image
                   className={styles.vectorImgRight}
                   src="/assets/logos/footer-linkedin.svg"
