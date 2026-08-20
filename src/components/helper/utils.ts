@@ -180,7 +180,7 @@ export const clientCommentCardItem = [
     },
     {
         name: "Doug Vincent",
-        comment: "Zenovise Technologies listened to our needs and made sure we were getting the correct value for the service provided. Their leadership recognized our requirements and their groups efforts materialized. It became a very cohesive relationship."
+        comment: "Zenovise Innovative Solutions Pvt. Ltd. listened to our needs and made sure we were getting the correct value for the service provided. Their leadership recognized our requirements and their groups efforts materialized. It became a very cohesive relationship."
     },
     {
         name: "Carl Garcia",
@@ -192,7 +192,7 @@ export const clientCommentCardItem = [
     },
     {
         name: "Doug Vincent",
-        comment: "Zenovise Technologies listened to our needs and made sure we were getting the correct value for the service provided. Their leadership recognized our requirements and their groups efforts materialized. It became a very cohesive relationship."
+        comment: "Zenovise Innovative Solutions Pvt. Ltd. listened to our needs and made sure we were getting the correct value for the service provided. Their leadership recognized our requirements and their groups efforts materialized. It became a very cohesive relationship."
     }, 
     {
         name: "Carl Garcia",
@@ -204,7 +204,7 @@ export const clientCommentCardItem = [
     },
     {
         name: "Doug Vincent",
-        comment: "Zenovise Technologies listened to our needs and made sure we were getting the correct value for the service provided. Their leadership recognized our requirements and their groups efforts materialized. It became a very cohesive relationship."
+        comment: "Zenovise Innovative Solutions Pvt. Ltd. listened to our needs and made sure we were getting the correct value for the service provided. Their leadership recognized our requirements and their groups efforts materialized. It became a very cohesive relationship."
     },
 ]
 

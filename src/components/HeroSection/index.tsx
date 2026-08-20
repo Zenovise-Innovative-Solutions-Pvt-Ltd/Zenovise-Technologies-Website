@@ -192,7 +192,7 @@ const HeroSection = (props: IHeroSectionProps) => {
           <button
             onClick={() =>
               window.open(
-                "https://www.linkedin.com/company/zenovise-technologies/"
+                "https://www.linkedin.com/company/zenovise-innovative-solutions-pvt-ltd/"
               )
             }
           >
