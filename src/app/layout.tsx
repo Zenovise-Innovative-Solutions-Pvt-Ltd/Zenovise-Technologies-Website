@@ -9,7 +9,7 @@ const montserratAlternates = Montserrat_Alternates({
 });
 
 export const metadata: Metadata = {
-  title: "Zenovise Technologies",
+  title: "Zenovise Innovative Solutions Pvt. Ltd.",
   description: "Grow your business and increase revenues with our digital marketing campaigns.",
   icons: {
     icon: "/assets/logos/favicon.svg",  // Path to the favicon in the public directory
