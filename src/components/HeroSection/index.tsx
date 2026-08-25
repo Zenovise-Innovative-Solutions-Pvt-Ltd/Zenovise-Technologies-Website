@@ -205,7 +205,7 @@ const HeroSection = (props: IHeroSectionProps) => {
           </button>
           <button
             onClick={() =>
-              window.open("https://www.instagram.com/zenovisetechnologies/")
+              window.open("https://www.instagram.com/zenoviseinnovativesolutions/")
             }
           >
             <Image
