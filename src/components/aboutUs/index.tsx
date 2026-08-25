@@ -15,7 +15,7 @@ const AboutUs = () => {
     <>
       <HeroSection 
         title={"Zenovise Story"}
-        subTitle={`Zenovise technology “begins its journey” with the aspiration to achieve one of the top and finest software development companies around the globe. We develop unique and advanced mobile apps for all leading companies, brands, startups, and enterprises.<br/><br/>We are inclined to the culture of getting things done systematically at our workplace. We follow zero tolerance. We are committed to navigating with creativity in creating high-end web development solutions. We solve every usage problem of our clients and their customers. Our passion for developing solutions helps to achieve our goals year after year.`}
+        subTitle={`Zenovise Innovative Solutions Pvt. Ltd. “begins its journey” with the aspiration to achieve one of the top and finest software development companies around the globe. We develop unique and advanced mobile apps for all leading companies, brands, startups, and enterprises.<br/><br/>We are inclined to the culture of getting things done systematically at our workplace. We follow zero tolerance. We are committed to navigating with creativity in creating high-end web development solutions. We solve every usage problem of our clients and their customers. Our passion for developing solutions helps to achieve our goals year after year.`}
         hideInfoCard
       />
       <SectionLayout
