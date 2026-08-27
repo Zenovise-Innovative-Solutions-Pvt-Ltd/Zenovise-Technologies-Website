@@ -32,11 +32,11 @@ const Footer = () => {
               height={16}
             />
             <p className={styles.infoSubText}>
-              O-1, 1st Floor, Silver Palm Bldg,
+              D/1, Vighneshwar Estate,
               <br />
-              Besides, Kadampally Society,
+              Opp. Gandhi Smruti Bhavan, Timaliawad,
               <br />
-              Timaliawad, Surat, Gujarat 395001
+              Nanpura, Surat, Gujarat 395001
             </p>
           </div>
         </div>
