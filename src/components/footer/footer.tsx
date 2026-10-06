@@ -33,9 +33,7 @@ const Footer = () => {
             />
             <p className={styles.infoSubText}>
               {/* D/1, Vighneshwar Estate, */}
-              <br />
               {/* Opp. Gandhi Smruti Bhavan, Timaliawad, */}
-              <br />
               Nanpura, Surat, Gujarat 395001
             </p>
           </div>
