@@ -55,7 +55,7 @@ const AboutUs = () => {
           </div>
         }
       />
-      <SectionLayout
+      {/* <SectionLayout
         title='A Squad of Talented Professionals'
         subTitle='Highly talented professionals and engineers together help to succeed in our dream. Their technical knowledge and creative skills are recommendable.'
         titleBgWidth={300}
@@ -67,7 +67,7 @@ const AboutUs = () => {
         mainContent={
           <SquadProfileComponent />
         }
-      />
+      /> */}
       <SectionLayout
         title='Global Presence'
         subTitle='With software development centre in India, we are proud to build long term relationships with clients, helping them attain their business goals.'

@@ -32,9 +32,9 @@ const Footer = () => {
               height={16}
             />
             <p className={styles.infoSubText}>
-              D/1, Vighneshwar Estate,
+              {/* D/1, Vighneshwar Estate, */}
               <br />
-              Opp. Gandhi Smruti Bhavan, Timaliawad,
+              {/* Opp. Gandhi Smruti Bhavan, Timaliawad, */}
               <br />
               Nanpura, Surat, Gujarat 395001
             </p>
